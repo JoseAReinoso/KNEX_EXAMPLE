@@ -1,0 +1,2 @@
+1- npm init -y (once you get files created)  - his will get package.json installed
+2- npm add knex sqlite3  - This will get SQLITE3 installed as well as KNEX
